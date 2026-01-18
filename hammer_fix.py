@@ -6,7 +6,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 # ================================
 # USER CONFIGURATION
 # ================================
-ip = "10.10.46.106"
+ip = "0.0.0.0"
 port = "1337"
 phpsessid = "qv40uaabb5cpig354rg1adjvof"
 
